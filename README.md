@@ -23,10 +23,15 @@ Below are real screenshots of the running application, showing the UI and functi
 
 ## Screenshots
 
-![Screenshot 1](screenshots/1.png)
-![Screenshot 2](screenshots/2.png)
-![Screenshot 3](screenshots/3.png)
-![Screenshot 4](screenshots/4.png)
+<p align="center">
+  <img src="./screenshots/1.png" width="220" />
+  <img src="./screenshots/2.png" width="220" />
+</p>
+<p align="center">
+  <img src="./screenshots/3.png" width="220" />
+  <img src="./screenshots/4.png" width="220" />
+</p>
+
 
 > These images are **application screenshots**, not UI assets used inside the code.
 
