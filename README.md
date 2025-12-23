@@ -1,16 +1,85 @@
-# bmi_calculator
+# 🧮 BMI Calculator  
+Responsive Flutter Mobile Application
 
-This is a project dedicated to the biocalculator.
+## README  
+MIT License
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## About the Project
 
-A few resources to get you started if this is your first Flutter project:
+Thank you for visiting this repository 👋  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**BMI Calculator** is a Flutter mobile application created to demonstrate my skills in **Flutter development**, **UI building**, and **basic application logic**.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The application allows users to calculate their **Body Mass Index (BMI)** by entering their height and weight.  
+The project focuses on clean UI, proper widget hierarchy, and simple mathematical logic implemented using Flutter.
+
+---
+
+## Screenshots
+
+Below are real screenshots of the running application, showing the UI and functionality of the BMI Calculator.
+
+<p align="center">
+  <img src="screenshots/1.jpg" width="250">
+  <img src="screenshots/2.jpg" width="250">
+  <img src="screenshots/3.jpg" width="250">
+</p>
+
+> These images are **application screenshots**, not UI assets used inside the code.
+
+---
+
+## Table of Contents
+
+- Key Features  
+- Flutter Widgets Used  
+- UI Structure  
+- Technologies Used  
+- Getting Started  
+- Usage Guide  
+- Contact Me  
+- License  
+
+---
+
+## Key Features
+
+🧮 **BMI Calculation**  
+Calculates Body Mass Index based on user-provided height and weight.
+
+📱 **Simple & Clean UI**  
+Minimal and user-friendly interface focused on usability.
+
+🧱 **Widget-Based Architecture**  
+Built entirely with Flutter widgets using a clear and readable structure.
+
+⚙️ **Logic + UI Combined**  
+Includes basic calculation logic along with UI implementation.
+
+---
+
+## Flutter Widgets Used
+
+### Core Widgets
+- `StatelessWidget`
+- `StatefulWidget`
+
+### Layout Widgets
+- `Scaffold`
+- `Column`
+- `Row`
+- `Padding`
+- `Container`
+- `Expanded`
+
+### Input & UI Widgets
+- `TextField`
+- `TextEditingController`
+- `ElevatedButton`
+- `Text`
+
+---
+
+
