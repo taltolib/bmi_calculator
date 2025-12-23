@@ -80,7 +80,3 @@ Includes basic calculation logic along with UI implementation.
 - `TextEditingController`
 - `ElevatedButton`
 - `Text`
-
----
-
-
