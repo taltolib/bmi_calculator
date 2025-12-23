@@ -21,12 +21,17 @@ The project focuses on clean UI, proper widget hierarchy, and simple mathematica
 
 Below are real screenshots of the running application, showing the UI and functionality of the BMI Calculator.
 
+## Screenshots
+
+
 <p align="center">
-  <img src="screenshots/11.png" width="250">
-  <img src="screenshots/22.png" width="250">
-  <img src="screenshots/33.png" width="250">
-  <img src="screenshots/44.png" width="250">
+  <img src="screenshots/11.png" width="250"/>
+  <img src="screenshots/22.png" width="250"/>
+  <img src="screenshots/33.png" width="250"/>
+  <img src="screenshots/44.png" width="250"/>
 </p>
+
+
 
 > These images are **application screenshots**, not UI assets used inside the code.
 
