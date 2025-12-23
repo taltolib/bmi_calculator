@@ -1,10 +1,4 @@
 
-<p align="center">
-  <img src="images/11.png" width="250"/>
-</p>
-
-
-
 # 🧮 BMI Calculator  
 Responsive Flutter Mobile Application
 
@@ -32,6 +26,7 @@ Below are real screenshots of the running application, showing the UI and functi
 
 
 <p align="center">
+  <img src="images/11.png" width="250"/>
   <img src="images/22.png" width="250"/>
   <img src="images/33.png" width="250"/>
   <img src="images/44.png" width="250"/>
